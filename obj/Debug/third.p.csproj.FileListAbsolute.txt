@@ -1,0 +1,7 @@
+C:\Users\Sushant Hulawal\OneDrive\Documents\Projects\third.p\third.p\bin\Debug\third.p.exe.config
+C:\Users\Sushant Hulawal\OneDrive\Documents\Projects\third.p\third.p\bin\Debug\third.p.exe
+C:\Users\Sushant Hulawal\OneDrive\Documents\Projects\third.p\third.p\bin\Debug\third.p.pdb
+C:\Users\Sushant Hulawal\OneDrive\Documents\Projects\third.p\third.p\obj\Debug\third.p.csproj.AssemblyReference.cache
+C:\Users\Sushant Hulawal\OneDrive\Documents\Projects\third.p\third.p\obj\Debug\third.p.csproj.CoreCompileInputs.cache
+C:\Users\Sushant Hulawal\OneDrive\Documents\Projects\third.p\third.p\obj\Debug\third.p.exe
+C:\Users\Sushant Hulawal\OneDrive\Documents\Projects\third.p\third.p\obj\Debug\third.p.pdb
